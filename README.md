@@ -1,7 +1,7 @@
 # PyCitySchools Challenge
 
 ## Overview of Project
-###Original Project
+### Original Project
 Maria, the chief data scientist for a city school district, has requested my assistance in preparing 
 an analysis of school testing proficiency in the school district. I assisted Maria in analyzing data 
 on student funding and students’ standardized test scores. The project used Anaconda and 
@@ -39,51 +39,51 @@ code.
 
 ## Results:
 PyCitySchools Challenge provided the following key results:
-•	The district summary changed slightly with the removal of the Thomas High School 9th 
+*	The district summary changed slightly with the removal of the Thomas High School 9th 
 grader test results. The average math score for the district decreased slightly from 79.0% 
 to 78.9%. Since the report rounded values, the summary does not indicate other changes. See 
 the original and revised District Summary below.
 ![District_summary_original.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/District_summary_original.png)
 ![District_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/District_summary_revised.png)
 
-•	The school summary changed for Thomas High School, with the average math score 
+*	The school summary changed for Thomas High School, with the average math score 
 decreasing from 83.418% to 83.351% rounding to the nearing thousandth. However, 
 Thomas High School’s average reading scores increased slightly to 83.896% from 83.845%, 
 again rounding to the nearing thousandth. See the original and revised Per School Summary 
 below.
-![Per_school_summary_original.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_original.png)![Per_school_summary_original.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_original.png)
+![Per_school_summary_original.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_original.png)
 ![Per_school_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_revised.png)
-•	Replacing the ninth graders’ math and reading scores at Thomas High School did not impact 
+*	Replacing the ninth graders’ math and reading scores at Thomas High School did not impact 
 Thomas High School’s performance relative to the other schools. The schools passing 
 percentages remained unchanged when rounding the values to whole numbers.
-•	Replacing the Thomas High School ninth-grade scores had the following affect, after rounding:
-	o	No change in the scores by school spending. 
-	o	No change in the scores by school size. 
-	o	No change in the scores by school type. 
-	o	This is understandable given that the change from the removal of a relatively small 
+*	Replacing the Thomas High School ninth-grade scores had the following affect, after rounding:
+	*	No change in the scores by school spending. 
+	*	No change in the scores by school size. 
+	*	No change in the scores by school type. 
+	*	This is understandable given that the change from the removal of a relatively small 
 		set of grades is limited when using an average measure and percentage across the 
 		district. </p>
 		
 ## Key Reports
 Maria and I generated the following key reports for the school board as part of the project: 
-•	Per School Summary
+*	Per School Summary
 ![Per_school_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_revised.png)
-•	Size Summary
+*	Size Summary
 ![Size_summary_revised.png(https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Size_summary_revised.png)
-•	Spending summary
+*	Spending summary
 ![Spending_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Spending_summary_revised.png)
-•	Type Summary
+*	Type Summary
 ![Type_summary_revised.png(https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Type_summary_revised.png) </p>
 
 ## Summary
 Four changes in the updated school district analysis after reading and math scores for the ninth 
 grade at Thomas High School were replaced with NaNs were the following:
-•	The number of students with test scores in the district decreased 461 from 39,170 to 
+*	The number of students with test scores in the district decreased 461 from 39,170 to 
 	38,709.
-•	The school summary changed for Thomas High School, with average math score 
+*	The school summary changed for Thomas High School, with average math score 
 	decreasing from 83.418% to 83.351% and average reading score increasing from 83.845% to 83.896%. 
-•	The number of Thomas High School students with test scores decreased 461 from 1,635 
+*	The number of Thomas High School students with test scores decreased 461 from 1,635 
 	to 1,174 after eliminating the 9th grader scores.
-•	The overall passing percentage for Thomas High School went from 90.948% to 90.630%, 
+*	The overall passing percentage for Thomas High School went from 90.948% to 90.630%, 
 	rounding to the nearest thousandth.</p>
 
