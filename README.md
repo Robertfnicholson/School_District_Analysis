@@ -69,11 +69,11 @@ Maria and I generated the following key reports for the school board as part of 
 *	Per School Summary
 ![Per_school_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Per_school_summary_revised.png)
 *	Size Summary
-![Size_summary_revised.png(https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Size_summary_revised.png)
+![Size_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Size_summary_revised.png)
 *	Spending summary
 ![Spending_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Spending_summary_revised.png)
 *	Type Summary
-![Type_summary_revised.png(https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Type_summary_revised.png) </p>
+![Type_summary_revised.png](https://github.com/Robertfnicholson/School_District_Analysis/blob/031e541bfdf64fb0d53cff4431ce491359cf6f29/Type_summary_revised.png) </p>
 
 ## Summary
 Four changes in the updated school district analysis after reading and math scores for the ninth 
