@@ -21,7 +21,8 @@ the school board did not know the full extent of the academic dishonesty, they w
 uphold state-testing standards and turned to Maria for help. Maria asked me to replace the 
 math and reading scores for Thomas High School with NaNs while keeping the rest of the data 
 intact. Once I replaced the math and reading scores, Maria requested that I repeat the school 
-district analysis that I did earlier and describe how these changes affected the overall analysis.</p>
+district analysis that I did earlier and describe how these changes affected the overall analysis.
+My code can be found in the "PyCitySchools_Challenge.ipynb" file.</p>
 
 ## Challenges
 Throughout working on Maria’s series of data exercises and the challenge, I found the code did 
